@@ -1,4 +1,4 @@
-<h1 align="center">Lux Explorer</h1>
+<h1 align="center">Zoo Explorer</h1>
 
 <p align="center">
     <span>Frontend application for </span>
