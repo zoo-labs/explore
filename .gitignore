@@ -53,3 +53,11 @@ yarn-error.log*
 **.dec**
 
 .env
+
+
+
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+GROK.md
+QWEN.md
